@@ -3,6 +3,7 @@
 ☆ SCRIPT PREMIUM
 
 🅳🅼🅱🅵
+
 ⇨ Feature Login
 
 [☆] Login Cookies
@@ -12,6 +13,7 @@
 ⇨ Fitur SCRIPT
 
 🅳🅼🅱🅵
+
 [☆] Crack Crack Dari Publik/Teman
 
 [☆] Crack Dari Followers
@@ -50,7 +52,9 @@ $ git clone https://github.com/Dicky-XD/DMBF
 ⇨ Run Script
 
 🅳🅼🅱🅵
+
 $ cd DMBF
 
 $ python2 DMBF.pyc
+
 🅳🅼🅱🅵
