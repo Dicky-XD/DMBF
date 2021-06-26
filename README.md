@@ -41,7 +41,7 @@ $ pip install mechanize
 
 $ pip install futures
 
-$ rm -rf premium
+$ rm -rf dmbf
 
 $ git pull
 
@@ -50,7 +50,7 @@ $ git clone https://github.com/Dicky-XD/DMBF
 ⇨ Run Script
 
 🅳🅼🅱🅵
-$ cd premium
+$ cd DMBF
 
 $ python2 DMBF.pyc
 🅳🅼🅱🅵
