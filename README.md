@@ -52,4 +52,5 @@ $ git clone https://github.com/Dicky-XD/DMBF
 🅳🅼🅱🅵
 $ cd premium
 
-$ python2 DMBF.py
+$ python2 DMBF.pyc
+🅳🅼🅱🅵
