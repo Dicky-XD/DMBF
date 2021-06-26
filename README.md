@@ -29,6 +29,7 @@
 ⇨ Install Script On Termux
 
 🅳🅼🅱🅵
+
 $ pkg update && upgrade
 
 $ pkg install python
